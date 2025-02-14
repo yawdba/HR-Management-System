@@ -22,4 +22,7 @@ The database includes:
 - **Triggers** to log changes when salaries are updated.
 - **Views** to provide HR with an overview of employees on leave.
 
-## How to Use
+## Getting Started
+
+### Prerequisites
+- Oracle SQL.
