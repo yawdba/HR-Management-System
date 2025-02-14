@@ -1,7 +1,7 @@
-# HR-Management-System-Database
+# HR-Management-System
 
 ## Project Overview
-The **HR Management System Database** is designed to manage employee records, payroll processing, leave tracking, and salary updates efficiently. It includes stored procedures, triggers, and views to streamline HR operations.
+The **HR Management System** is designed to manage employee records, payroll processing, leave tracking, and salary updates efficiently. It includes stored procedures, triggers, and views to streamline HR operations.
 
 ## Features
 -  **Employee Management**: Store and manage employee details.
