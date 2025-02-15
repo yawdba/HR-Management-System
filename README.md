@@ -13,8 +13,9 @@ The **HR Management System** is designed to manage employee records, payroll pro
 The system consists of multiple tables, including:
 - **Employees**: Stores employee details such as name, department, and status.
 - **Salaries**: Tracks salary components like base salary, bonuses, and deductions.
-- **Payroll**: Logs payroll transactions after processing.
 - **Leaves**: Manages employee leave applications and approvals.
+- **Payroll**: Logs payroll transactions after processing.
+
 
 ## Key SQL Components
 The database includes:
